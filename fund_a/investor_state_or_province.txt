@@ -1,0 +1,100 @@
+Alaska
+Alberta
+British Columbia
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+Colorado
+Colorado
+Connecticut
+Connecticut
+Connecticut
+Connecticut
+England
+England
+England
+England
+England
+England
+England
+England
+England
+England
+England
+England
+England
+Florida
+Florida
+Georgia
+Guernsey
+Illinois
+Illinois
+Indiana
+Massachusetts
+Massachusetts
+Massachusetts
+Michigan
+Missouri
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+New Jersey
+New South Wales
+New York
+New York
+New York
+New York
+New York
+New York
+North Carolina
+North Carolina
+Ohio
+Ontario
+Ontario
+Ontario
+Ontario
+South Australia
+Tennessee
+Texas
+Texas
+Texas
+Texas
+Texas
+Utah
+Virginia

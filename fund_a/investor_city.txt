@@ -1,0 +1,100 @@
+Abidjan
+Adelaide
+Amsterdam
+Anchorage
+Atlanta
+Austin
+Austin
+Berlin
+Birmingham
+Birmingham
+Boca Raton
+Bogota
+Boston
+Boston
+Boston
+Boulder
+Calgary
+Charlotte
+Charlotte
+Charlottenlund
+Chicago
+Chicago
+Cleveland
+Cottonwood Heights
+Dallas
+Dallas
+Denver
+Dulles
+El Segundo
+Findel
+Frankfurt
+Greenwich
+Greenwich
+Hamburg
+Hanoi
+Hanoi
+Harrogate
+Indianapolis
+London
+London
+London
+London
+London
+London
+London
+London
+London
+London
+London
+Los Angeles
+Los Angeles
+Luxembourg-Findel
+Miami
+Milan
+Milan
+Milan
+Morristown
+Moscow
+Moscow
+Munich
+NULL
+NULL
+Nashville
+New York
+New York
+New York
+New York
+New York
+New York
+Oslo
+Palo Alto
+Palo Alto
+Paris
+Paris
+Paris
+Prague
+Saint Louis
+Saint Peter Port
+Saint Pierre
+San Diego
+San Francisco
+San Francisco
+San Mateo
+San Mateo
+Sao Paulo
+Sao Paulo
+Shanghai
+Singapore
+Stamford
+Stamford
+Sydney
+The Woodlands
+Tokyo
+Toronto
+Toronto
+Toronto
+Toronto
+Treviso
+Vancouver
+Zwijndrecht
